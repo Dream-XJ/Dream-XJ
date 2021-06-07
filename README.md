@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dream-XJ
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning .NET Framework
